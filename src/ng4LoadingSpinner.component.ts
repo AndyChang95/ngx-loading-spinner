@@ -173,7 +173,6 @@ export class Ng4LoadingSpinnerComponent implements OnDestroy {
 
     this.subscription =
       this.spinnerService.getMessage().subscribe(show => {
-        debugger
         if (show) {
           timer = setTimeout(function () {
             this.showSpinner = show;
