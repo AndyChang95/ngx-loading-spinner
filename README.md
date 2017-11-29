@@ -3,6 +3,9 @@
 Angular 4 custom async loading spinner with two simple methods for your asychronous calls.
 Custom loading template & loading text inputs are also available.
 
+[![Build Status](https://img.shields.io/badge/Support-Angular%204.0.%2FAngular%205.0-brightgreen.svg)
+]
+
 > [ Docs Link ](https://amitmahida92.github.io/ng4-loading-spinner) 
 
 > [Link to ng4-loading-spinner](https://www.npmjs.com/package/ng4-loading-spinner)
