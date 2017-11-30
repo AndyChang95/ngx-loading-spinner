@@ -1,6 +1,6 @@
 {
   "name": "ng4-loading-spinner",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/amitmahida92/ng4-loading-spinner"
@@ -35,10 +35,10 @@
     "url": "https://github.com/amitmahida92/ng4-loading-spinner/issues"
   },
   "homepage": "https://github.com/amitmahida92/ng4-loading-spinner",
-  "main": "ngx-loading-spinner.umd.js",
-  "module": "ngx-loading-spinner.js",
-  "jsnext:main": "ngx-loading-spinner.js",
-  "typings": "ngx-loading-spinner.d.ts",
+  "main": "ng4-loading-spinner.umd.js",
+  "module": "ng4-loading-spinner.js",
+  "jsnext:main": "ng4-loading-spinner.js",
+  "typings": "ng4-loading-spinner.d.ts",
   "peerDependencies": {
     "@angular/core": "^5.0.3",
     "rxjs": "^5.5.2",

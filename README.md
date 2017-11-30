@@ -119,7 +119,7 @@ this.spinnerService.hide();
 
 ```html    
 
-<ngx-loading-spinner [threshold]="2000" [template]="template" [loadingText]="'Please wait...'" [zIndex]="9999"></ngx-loading-spinner>
+<ng4-loading-spinner [threshold]="2000" [template]="template" [loadingText]="'Please wait...'" [zIndex]="9999"></ng4-loading-spinner>
 
 ```    
 

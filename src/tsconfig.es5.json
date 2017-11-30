@@ -21,8 +21,8 @@
     "annotateForClosureCompiler": true,
     "strictMetadataEmit": true,
     "skipTemplateCodegen": true,
-    "flatModuleOutFile": "ngx-loading-spinner.js",
-    "flatModuleId": "ngx-loading-spinner"
+    "flatModuleOutFile": "ng4-loading-spinner.js",
+    "flatModuleId": "ng4-loading-spinner"
   },
   "files": [
     "./index.ts"

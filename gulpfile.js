@@ -125,7 +125,7 @@ gulp.task('rollup:umd', function () {
       // The name to use for the module for UMD/IIFE bundles
       // (required for bundles with exports)
       // See "name" in https://rollupjs.org/#core-functionality
-      name: 'ngx-loading-spinner',
+      name: 'ng4-loading-spinner',
 
       // See "globals" in https://rollupjs.org/#core-functionality
       globals: {
@@ -133,7 +133,7 @@ gulp.task('rollup:umd', function () {
       }
 
     }))
-    .pipe(rename('ngx-loading-spinner.umd.js'))
+    .pipe(rename('ng4-loading-spinner.umd.js'))
     .pipe(gulp.dest(distFolder));
 });
 
