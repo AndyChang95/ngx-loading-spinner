@@ -1,9 +1,9 @@
 {
-  "name": "ngx-loading-spinner",
-  "version": "0.1.0",
+  "name": "ng4-loading-spinner",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/amitmahida92/ngx-loading-spinner"
+    "url": "https://github.com/amitmahida92/ng4-loading-spinner"
   },
   "author": {
     "name": "Amit Mahida",
@@ -32,9 +32,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/amitmahida92/ngx-loading-spinner/issues"
+    "url": "https://github.com/amitmahida92/ng4-loading-spinner/issues"
   },
-  "homepage": "https://github.com/amitmahida92/ngx-loading-spinner",
+  "homepage": "https://github.com/amitmahida92/ng4-loading-spinner",
   "main": "ngx-loading-spinner.umd.js",
   "module": "ngx-loading-spinner.js",
   "jsnext:main": "ngx-loading-spinner.js",
