@@ -6,11 +6,11 @@ import { NgModule } from '@angular/core';
 import { Component } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
-import { Ng4LoadingSpinnerModule, Ng4LoadingSpinnerService } from 'ngx-loading-spinner';
+import { Ng4LoadingSpinnerModule, Ng4LoadingSpinnerService } from 'ng4-loading-spinner';
 
 @Component({
   selector: 'app',
-  template: `<ngx-loading-spinner></ngx-loading-spinner>`
+  template: `<ng4-loading-spinner></ng4-loading-spinner>`
 })
 class AppComponent {
 
@@ -29,7 +29,7 @@ class AppComponent {
 @NgModule({
   bootstrap: [AppComponent],
   declarations: [AppComponent],
-  imports: [BrowserModule, Ng4LoadingSpinnerModule]
+  imports: [BrowserModule, Ng4LoadingSpinnerModule.forRoot()]
 })
 class AppModule { }
 

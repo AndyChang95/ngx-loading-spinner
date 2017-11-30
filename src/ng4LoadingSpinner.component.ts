@@ -10,7 +10,7 @@ import { Subscription } from 'rxjs/Subscription';
  * @implements {OnDestroy}
  */
 @Component({
-  selector: 'ngx-loading-spinner',
+  selector: 'ng4-loading-spinner',
   templateUrl: './ng4LoadingSpinner.component.html',
   styleUrls: ['./ng4LoadingSpinner.component.css'],
   inputs: ['template', 'loadingText', 'zIndex'],
